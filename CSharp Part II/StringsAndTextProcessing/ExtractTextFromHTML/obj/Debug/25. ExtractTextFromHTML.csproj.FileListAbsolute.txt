@@ -1,0 +1,2 @@
+C:\Users\Karadaliev\Desktop\Telerik\CSharp Part II\StringsAndTextProcessing\ExtractTextFromHTML\bin\Debug\ExtractTextFromHTML.exe.config
+C:\Users\Daniel\Desktop\Telerik\CSharp Part II\StringsAndTextProcessing\ExtractTextFromHTML\bin\Debug\ExtractTextFromHTML.exe.config

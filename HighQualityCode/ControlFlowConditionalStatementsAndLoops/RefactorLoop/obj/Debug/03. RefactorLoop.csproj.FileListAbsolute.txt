@@ -1,0 +1,6 @@
+C:\Users\Daniel\Desktop\Telerik\HighQualityCode\ControlFlowConditionalStatementsAndLoops\RefactorLoop\bin\Debug\RefactorLoop.exe.config
+C:\Users\Daniel\Desktop\Telerik\HighQualityCode\ControlFlowConditionalStatementsAndLoops\RefactorLoop\bin\Debug\RefactorLoop.exe
+C:\Users\Daniel\Desktop\Telerik\HighQualityCode\ControlFlowConditionalStatementsAndLoops\RefactorLoop\bin\Debug\RefactorLoop.pdb
+C:\Users\Daniel\Desktop\Telerik\HighQualityCode\ControlFlowConditionalStatementsAndLoops\RefactorLoop\obj\Debug\03. RefactorLoop.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\Telerik\HighQualityCode\ControlFlowConditionalStatementsAndLoops\RefactorLoop\obj\Debug\RefactorLoop.exe
+C:\Users\Daniel\Desktop\Telerik\HighQualityCode\ControlFlowConditionalStatementsAndLoops\RefactorLoop\obj\Debug\RefactorLoop.pdb

@@ -1,0 +1,1 @@
+C:\Users\Daniel\Desktop\Telerik\CSharp OOP\CommonTypeSystem\PersonClass\bin\Debug\PersonClass.exe.config

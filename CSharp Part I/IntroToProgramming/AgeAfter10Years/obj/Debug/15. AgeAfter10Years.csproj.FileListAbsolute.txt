@@ -1,0 +1,5 @@
+C:\Users\Karadaliev\Desktop\Telerik\CSharp Part I\IntroToProgramming\AgeAfter10Years\bin\Debug\AgeAfter10Years.exe.config
+C:\Users\Karadaliev\Desktop\Telerik\CSharp Part I\IntroToProgramming\AgeAfter10Years\bin\Debug\AgeAfter10Years.exe
+C:\Users\Karadaliev\Desktop\Telerik\CSharp Part I\IntroToProgramming\AgeAfter10Years\bin\Debug\AgeAfter10Years.pdb
+C:\Users\Karadaliev\Desktop\Telerik\CSharp Part I\IntroToProgramming\AgeAfter10Years\obj\Debug\AgeAfter10Years.exe
+C:\Users\Karadaliev\Desktop\Telerik\CSharp Part I\IntroToProgramming\AgeAfter10Years\obj\Debug\AgeAfter10Years.pdb

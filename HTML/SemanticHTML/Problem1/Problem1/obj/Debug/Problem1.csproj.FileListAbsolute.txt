@@ -1,0 +1,6 @@
+C:\Users\Daniel\Desktop\Telerik\HTML\SemanticHTML\Problem1\Problem1\bin\Problem1.dll.config
+C:\Users\Daniel\Desktop\Telerik\HTML\SemanticHTML\Problem1\Problem1\bin\Problem1.dll
+C:\Users\Daniel\Desktop\Telerik\HTML\SemanticHTML\Problem1\Problem1\bin\Problem1.pdb
+C:\Users\Daniel\Desktop\Telerik\HTML\SemanticHTML\Problem1\Problem1\obj\Debug\Problem1.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\Telerik\HTML\SemanticHTML\Problem1\Problem1\obj\Debug\Problem1.dll
+C:\Users\Daniel\Desktop\Telerik\HTML\SemanticHTML\Problem1\Problem1\obj\Debug\Problem1.pdb

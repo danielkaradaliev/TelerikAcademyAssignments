@@ -1,0 +1,5 @@
+C:\Users\Karadaliev\Desktop\Telerik\CSharp Part I\ConsoleInputOutput\ConsoleInputOutput\NumbersInIntervalDividableByGivenNumber\bin\Debug\NumbersInIntervalDividableByGivenNumber.exe.config
+C:\Users\Karadaliev\Desktop\Telerik\CSharp Part I\ConsoleInputOutput\ConsoleInputOutput\NumbersInIntervalDividableByGivenNumber\bin\Debug\NumbersInIntervalDividableByGivenNumber.exe
+C:\Users\Karadaliev\Desktop\Telerik\CSharp Part I\ConsoleInputOutput\ConsoleInputOutput\NumbersInIntervalDividableByGivenNumber\bin\Debug\NumbersInIntervalDividableByGivenNumber.pdb
+C:\Users\Karadaliev\Desktop\Telerik\CSharp Part I\ConsoleInputOutput\ConsoleInputOutput\NumbersInIntervalDividableByGivenNumber\obj\Debug\NumbersInIntervalDividableByGivenNumber.exe
+C:\Users\Karadaliev\Desktop\Telerik\CSharp Part I\ConsoleInputOutput\ConsoleInputOutput\NumbersInIntervalDividableByGivenNumber\obj\Debug\NumbersInIntervalDividableByGivenNumber.pdb

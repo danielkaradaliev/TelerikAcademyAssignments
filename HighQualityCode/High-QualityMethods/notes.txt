@@ -1,0 +1,7 @@
+StyleCop says I have a Syntax error in MainMethod.cs on line 7? I don't see it...
+
+I decided not to look at my C# Part 2 exam solution...
+I had really bad luck, the code is so awful I cannot read it, I got really low score and barely 
+made it to the next course... I don't want to have nightmares tonight :D
+(Also, the problems for my exam are not public, so I can't read them either).
+I am still in the Academy, though :)

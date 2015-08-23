@@ -1,0 +1,1 @@
+C:\Users\Daniel\Desktop\Telerik\CSharp Part II\StringsAndTextProcessing\ExtraxctMails\bin\Debug\ExtraxctMails.exe.config

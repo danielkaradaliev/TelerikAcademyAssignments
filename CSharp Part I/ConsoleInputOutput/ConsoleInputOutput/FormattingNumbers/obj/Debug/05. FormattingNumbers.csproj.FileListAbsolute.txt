@@ -1,0 +1,5 @@
+C:\Users\Karadaliev\Desktop\Telerik\CSharp Part I\ConsoleInputOutput\ConsoleInputOutput\FormattingNumbers\bin\Debug\FormattingNumbers.exe.config
+C:\Users\Karadaliev\Desktop\Telerik\CSharp Part I\ConsoleInputOutput\ConsoleInputOutput\FormattingNumbers\bin\Debug\FormattingNumbers.exe
+C:\Users\Karadaliev\Desktop\Telerik\CSharp Part I\ConsoleInputOutput\ConsoleInputOutput\FormattingNumbers\bin\Debug\FormattingNumbers.pdb
+C:\Users\Karadaliev\Desktop\Telerik\CSharp Part I\ConsoleInputOutput\ConsoleInputOutput\FormattingNumbers\obj\Debug\FormattingNumbers.exe
+C:\Users\Karadaliev\Desktop\Telerik\CSharp Part I\ConsoleInputOutput\ConsoleInputOutput\FormattingNumbers\obj\Debug\FormattingNumbers.pdb

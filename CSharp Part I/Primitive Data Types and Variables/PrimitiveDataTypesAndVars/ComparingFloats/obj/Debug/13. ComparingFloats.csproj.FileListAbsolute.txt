@@ -1,0 +1,1 @@
+C:\Users\Karadaliev\Desktop\Telerik\CSharp Part I\Primitive Data Types and Variables\PrimitiveDataTypesAndVars\ComparingFloats\bin\Debug\ComparingFloats.exe.config

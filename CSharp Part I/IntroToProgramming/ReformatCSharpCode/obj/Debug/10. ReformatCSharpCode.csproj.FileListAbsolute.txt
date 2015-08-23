@@ -1,0 +1,6 @@
+C:\Users\Karadaliev\Desktop\Telerik\CSharp Part I\IntroToProgramming\ReformatCSharpCode\bin\Debug\ReformatCSharpCode.exe.config
+C:\Users\Karadaliev\Desktop\Telerik\CSharp Part I\IntroToProgramming\ReformatCSharpCode\bin\Debug\ReformatCSharpCode.exe
+C:\Users\Karadaliev\Desktop\Telerik\CSharp Part I\IntroToProgramming\ReformatCSharpCode\bin\Debug\ReformatCSharpCode.pdb
+C:\Users\Karadaliev\Desktop\Telerik\CSharp Part I\IntroToProgramming\ReformatCSharpCode\obj\Debug\ReformatCSharpCode.exe
+C:\Users\Karadaliev\Desktop\Telerik\CSharp Part I\IntroToProgramming\ReformatCSharpCode\obj\Debug\ReformatCSharpCode.pdb
+C:\Users\Karadaliev\Desktop\Telerik\CSharp Part I\IntroToProgramming\ReformatCSharpCode\obj\Debug\10. ReformatCSharpCode.csprojResolveAssemblyReference.cache

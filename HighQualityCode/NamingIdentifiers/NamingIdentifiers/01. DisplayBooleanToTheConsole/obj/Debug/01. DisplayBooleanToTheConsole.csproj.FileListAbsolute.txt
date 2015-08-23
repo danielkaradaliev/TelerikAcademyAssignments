@@ -1,0 +1,6 @@
+C:\Users\Daniel\Desktop\Telerik\HighQualityCode\NamingIdentifiers\NamingIdentifiers\01. DisplayBooleanToTheConsole\bin\Debug\_01.DisplayBooleanToTheConsole.exe.config
+C:\Users\Daniel\Desktop\Telerik\HighQualityCode\NamingIdentifiers\NamingIdentifiers\01. DisplayBooleanToTheConsole\bin\Debug\_01.DisplayBooleanToTheConsole.exe
+C:\Users\Daniel\Desktop\Telerik\HighQualityCode\NamingIdentifiers\NamingIdentifiers\01. DisplayBooleanToTheConsole\bin\Debug\_01.DisplayBooleanToTheConsole.pdb
+C:\Users\Daniel\Desktop\Telerik\HighQualityCode\NamingIdentifiers\NamingIdentifiers\01. DisplayBooleanToTheConsole\obj\Debug\01. DisplayBooleanToTheConsole.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\Telerik\HighQualityCode\NamingIdentifiers\NamingIdentifiers\01. DisplayBooleanToTheConsole\obj\Debug\_01.DisplayBooleanToTheConsole.exe
+C:\Users\Daniel\Desktop\Telerik\HighQualityCode\NamingIdentifiers\NamingIdentifiers\01. DisplayBooleanToTheConsole\obj\Debug\_01.DisplayBooleanToTheConsole.pdb

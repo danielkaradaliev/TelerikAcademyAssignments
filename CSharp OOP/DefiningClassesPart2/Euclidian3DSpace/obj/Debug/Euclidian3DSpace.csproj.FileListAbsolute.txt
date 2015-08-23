@@ -1,0 +1,1 @@
+C:\Users\Daniel\Desktop\Telerik\CSharp OOP\DefiningClassesPart2\Euclidian3DSpace\bin\Debug\Euclidian3DSpace.exe.config

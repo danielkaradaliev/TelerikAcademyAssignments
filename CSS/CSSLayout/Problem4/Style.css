@@ -1,0 +1,85 @@
+﻿body {
+    font-family: Arial, sans-serif;
+    font-size: 15px;
+    background-color: #eeeeee
+}
+nav {
+    float: left
+}
+    nav ul li a, nav a {
+        text-decoration: none;
+        color: #000000
+    }
+    nav ul li:first-child {
+        color: #9b1313;
+        font-weight: bold
+    }
+    nav ul {
+        list-style-type: none;
+        padding-left: 0;
+        padding-right: 10px
+    }
+    nav a, nav img {
+        padding-top: 10px
+    }
+section {
+    border: 1px solid #808080;
+    background-color: #ffffff;
+    width: 70%;
+    float: left;
+    padding-left: 10px
+}
+    section article img {
+        float: left;
+        margin-right:10px
+    }
+    section button {
+        background-color: #ffffff;
+        border: 1px solid #000000;
+        width: 100px
+    }
+    section h4 {
+        background-color: #808080;
+        color: #ffffff;
+        padding-left: 3px
+    }
+    section a {
+        color: #e81313
+    }
+    section #tutorial p{
+        font-weight: bold;
+        padding-left: 10px
+    }
+aside {
+    float: left
+}
+    aside div {
+        border: 1px solid #808080;
+        background-color: #ffffff;
+        margin: 2px;
+        display: block;
+        text-align: center;
+        padding-bottom: 5px;
+        padding-top: 5px
+    }
+    aside h3 {
+        background-color: #808080;
+        color: #ffffff;
+        margin: 0 0 5px 0
+    }
+    aside input {
+        margin-left: 10px;
+        width: 100px
+    }
+    aside a {
+        color: #e81313
+    }
+    aside #button25S {
+        background-color: #b8fbed;
+        color: #299f94;
+        width: 100px;
+        height: 32px
+    }
+.header3 {
+    padding-top: 0;
+}

@@ -1,0 +1,6 @@
+C:\Users\Daniel\Desktop\Telerik\HighQualityCode\ControlFlowConditionalStatementsAndLoops\ClassChefInCSharp\bin\Debug\ClassChefInCSharp.exe.config
+C:\Users\Daniel\Desktop\Telerik\HighQualityCode\ControlFlowConditionalStatementsAndLoops\ClassChefInCSharp\bin\Debug\ClassChefInCSharp.exe
+C:\Users\Daniel\Desktop\Telerik\HighQualityCode\ControlFlowConditionalStatementsAndLoops\ClassChefInCSharp\bin\Debug\ClassChefInCSharp.pdb
+C:\Users\Daniel\Desktop\Telerik\HighQualityCode\ControlFlowConditionalStatementsAndLoops\ClassChefInCSharp\obj\Debug\01. ClassChefInCSharp.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\Telerik\HighQualityCode\ControlFlowConditionalStatementsAndLoops\ClassChefInCSharp\obj\Debug\ClassChefInCSharp.exe
+C:\Users\Daniel\Desktop\Telerik\HighQualityCode\ControlFlowConditionalStatementsAndLoops\ClassChefInCSharp\obj\Debug\ClassChefInCSharp.pdb

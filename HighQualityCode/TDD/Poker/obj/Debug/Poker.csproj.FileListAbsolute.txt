@@ -1,0 +1,5 @@
+C:\Users\Daniel\Desktop\Telerik\HighQualityCode\TDD\Poker\bin\Debug\Poker.exe
+C:\Users\Daniel\Desktop\Telerik\HighQualityCode\TDD\Poker\bin\Debug\Poker.pdb
+C:\Users\Daniel\Desktop\Telerik\HighQualityCode\TDD\Poker\obj\Debug\Poker.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\Telerik\HighQualityCode\TDD\Poker\obj\Debug\Poker.exe
+C:\Users\Daniel\Desktop\Telerik\HighQualityCode\TDD\Poker\obj\Debug\Poker.pdb

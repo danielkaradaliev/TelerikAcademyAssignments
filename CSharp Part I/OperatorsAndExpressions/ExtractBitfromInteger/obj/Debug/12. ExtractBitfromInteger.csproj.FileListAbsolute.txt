@@ -1,0 +1,1 @@
+C:\Users\Karadaliev\Desktop\Telerik\CSharp Part I\OperatorsAndExpressions\ExtractBitfromInteger\bin\Debug\ExtractBitfromInteger.exe.config

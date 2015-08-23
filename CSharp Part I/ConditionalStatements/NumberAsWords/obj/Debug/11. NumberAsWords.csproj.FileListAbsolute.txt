@@ -1,0 +1,6 @@
+C:\Users\Daniel\Desktop\Telerik\CSharp Part I\ConditionalStatements\NumberAsWords\bin\Debug\NumberAsWords.exe.config
+C:\Users\Daniel\Desktop\Telerik\CSharp Part I\ConditionalStatements\NumberAsWords\bin\Debug\NumberAsWords.exe
+C:\Users\Daniel\Desktop\Telerik\CSharp Part I\ConditionalStatements\NumberAsWords\bin\Debug\NumberAsWords.pdb
+C:\Users\Daniel\Desktop\Telerik\CSharp Part I\ConditionalStatements\NumberAsWords\obj\Debug\11. NumberAsWords.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\Telerik\CSharp Part I\ConditionalStatements\NumberAsWords\obj\Debug\NumberAsWords.exe
+C:\Users\Daniel\Desktop\Telerik\CSharp Part I\ConditionalStatements\NumberAsWords\obj\Debug\NumberAsWords.pdb

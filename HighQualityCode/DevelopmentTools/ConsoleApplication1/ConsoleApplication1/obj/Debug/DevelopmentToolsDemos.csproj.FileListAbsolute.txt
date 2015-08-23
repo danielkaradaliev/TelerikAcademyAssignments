@@ -1,0 +1,8 @@
+C:\Users\Daniel\Desktop\Telerik\HighQualityCode\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Daniel\Desktop\Telerik\HighQualityCode\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Daniel\Desktop\Telerik\HighQualityCode\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Daniel\Desktop\Telerik\HighQualityCode\ConsoleApplication1\ConsoleApplication1\bin\Debug\log4net.dll
+C:\Users\Daniel\Desktop\Telerik\HighQualityCode\ConsoleApplication1\ConsoleApplication1\bin\Debug\log4net.xml
+C:\Users\Daniel\Desktop\Telerik\HighQualityCode\ConsoleApplication1\ConsoleApplication1\obj\Debug\DevelopmentToolsDemos.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\Telerik\HighQualityCode\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Daniel\Desktop\Telerik\HighQualityCode\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

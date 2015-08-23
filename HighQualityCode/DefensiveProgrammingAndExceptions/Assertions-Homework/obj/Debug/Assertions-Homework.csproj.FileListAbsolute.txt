@@ -1,0 +1,5 @@
+C:\Users\Daniel\Desktop\High-Quality-Code-master (1)\High-Quality-Code-master\09. Defensive Programming and Exceptions\Homework\Assertions-Homework\bin\Debug\Assertions-Homework.exe
+C:\Users\Daniel\Desktop\High-Quality-Code-master (1)\High-Quality-Code-master\09. Defensive Programming and Exceptions\Homework\Assertions-Homework\bin\Debug\Assertions-Homework.pdb
+C:\Users\Daniel\Desktop\High-Quality-Code-master (1)\High-Quality-Code-master\09. Defensive Programming and Exceptions\Homework\Assertions-Homework\obj\Debug\Assertions-Homework.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\High-Quality-Code-master (1)\High-Quality-Code-master\09. Defensive Programming and Exceptions\Homework\Assertions-Homework\obj\Debug\Assertions-Homework.exe
+C:\Users\Daniel\Desktop\High-Quality-Code-master (1)\High-Quality-Code-master\09. Defensive Programming and Exceptions\Homework\Assertions-Homework\obj\Debug\Assertions-Homework.pdb

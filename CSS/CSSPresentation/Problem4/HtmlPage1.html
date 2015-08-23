@@ -1,0 +1,172 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Calculator</title>
+    <link rel="stylesheet" type="text/css" href="Style.css">
+</head>
+<body>
+    <div id="container">
+        <p class="calc">Calculator</p>
+        <div id="win"></div>
+        <div id="nav">
+            <ul>
+                <li>View</li>
+                <li>Edit</li>
+                <li>Help</li>
+            </ul>
+            <div id="main">
+                <table>
+                    <tbody>
+                        <tr>
+                            <td colspan="9" id="display">8854455</td>
+                        </tr>
+                        <tr>
+                            <td colspan="9" class="binary">
+                                <table id="small">
+                                    <tr>
+                                        <td>0000</td>
+                                        <td>0000</td>
+                                        <td>0000</td>
+                                        <td>0000</td>
+                                        <td>0000</td>
+                                        <td>0000</td>
+                                        <td>0000</td>
+                                        <td>0000</td>
+                                    </tr>
+                                    <tr>
+                                        <td class="left">63</td>
+                                        <td></td>
+                                        <td></td>
+                                        <td></td>
+                                        <td class="left">47</td>
+                                        <td></td>
+                                        <td></td>
+                                        <td class="right">32</td>
+                                    </tr>
+                                    <tr>
+                                        <td>0000</td>
+                                        <td>0000</td>
+                                        <td>1000</td>
+                                        <td>0111</td>
+                                        <td>0001</td>
+                                        <td>1011</td>
+                                        <td>1011</td>
+                                        <td>0000</td>
+                                    </tr>
+                                    <tr>
+                                        <td class="left">31</td>
+                                        <td></td>
+                                        <td></td>
+                                        <td></td>
+                                        <td class="left">15</td>
+                                        <td></td>
+                                        <td></td>
+                                        <td class="right">0</td>
+                                    </tr>
+                                </table>
+
+                            </td>
+                        </tr>
+                        <tr>
+                            <td rowspan="3" class="radio">
+                                <input type="radio" name="numeral" value="Hex" /><label>Hex</label>
+                                <br />
+
+                                <input type="radio" name="numeral" value="Dec" checked /><label>Dec</label>
+                                <br />
+
+                                <input type="radio" name="numeral" value="Oct" /><label>Oct</label>
+                                <br />
+
+                                <input type="radio" name="numeral" value="Bin" /><label>Bin</label>
+                                <br />
+                            </td>
+                            <td><button class="noactiv"></button></td>
+                            <td>
+                                <button class="progButton">Mod</button>
+                            </td>
+                            <td>
+                                <button class="hex"> A</button>
+                            </td>
+                            <td>
+                                <button class="memoryButton">MC</button>
+                            </td>
+                            <td>
+                                <button class="memoryButton">MR</button>
+                            </td>
+                            <td>
+                                <button class="memoryButton">MS</button>
+                            </td>
+                            <td>
+                                <button class="memoryButton">M+</button>
+                            </td>
+                            <td>
+                                <button class="memoryButton">M-</button>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td><button class="progButton">(</button></td>
+                            <td><button class="progButton">)</button></td>
+                            <td><button class="hex">B</button></td>
+                            <td><button class="progButton">&larr;</button></td>
+                            <td><button class="progButton">CE</button></td>
+                            <td><button class="progButton">C</button></td>
+                            <td><button class="progButton">&plusmn;</button></td>
+                            <td><button class="noactiv">&radic;</button></td>
+                        </tr>
+                        <tr>
+                            <td><button class="progButton">RoL</button></td>
+                            <td><button class="progButton">RoR</button></td>
+                            <td><button class="hex">C</button></td>
+                            <td><button class="digital">7</button></td>
+                            <td><button class="digital">8</button></td>
+                            <td><button class="digital">9</button></td>
+                            <td><button class="progButton">/</button></td>
+                            <td><button class="noactiv">%</button></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="3" class="radio">
+
+                                <input type="radio" name="word" value="Qword" checked /><label>Qword</label>
+                                <br />
+                                <input type="radio" name="word" value="Dword" /><label>Dword</label>
+                                <br />
+                                <input type="radio" name="word" value="Word" /><label>Word</label>
+                                <br />
+                                <input type="radio" name="word" value="Byte" /><label>Byte</label>
+                                <br />
+                            </td>
+                            <td><button class="progButton">Or</button></td>
+                            <td><button class="progButton">Xor</button></td>
+                            <td><button class="hex">D</button></td>
+                            <td><button class="digital">4</button></td>
+                            <td><button class="digital">5</button></td>
+                            <td><button class="digital">6</button></td>
+                            <td><button>*</button></td>
+                            <td><button class="noactiv">1/x</button></td>
+                        </tr>
+                        <tr>
+                            <td><button class="progButton">Lsh</button></td>
+                            <td><button class="progButton">Rsh</button></td>
+                            <td><button class="hex">E</button></td>
+                            <td><button class="digital">1</button></td>
+                            <td><button class="digital">2</button></td>
+                            <td><button class="digital">3</button></td>
+                            <td><button>-</button></td>
+                            <td rowspan="2"><button id="equal">=</button></td>
+                        </tr>
+                        <tr>
+                            <td><button class="progButton">Not</button></td>
+                            <td><button class="progButton">And</button></td>
+                            <td><button class="hex">F</button></td>
+                            <td colspan="2"><button id="zero" class="digital">0</button></td>
+                            <td><button class="noactiv">.</button></td>
+                            <td><button>+</button></td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

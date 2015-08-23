@@ -1,0 +1,44 @@
+﻿body {
+    background-color: #bbbbbb
+}
+
+header {
+    color: #ffffff
+}
+
+body > header, body > footer {
+    text-align: center
+}
+
+body > header {
+    font-size: 1.5em
+}
+
+h1 {
+    font-size: 2em
+}
+
+ul {
+    list-style-type: none
+}
+
+a {
+    text-decoration: none;
+    color: inherit
+}
+
+nav a {
+    font-weight: bold
+}
+
+nav a:hover {
+    text-decoration: underline
+}
+
+.current {
+    background-color: #cfcfcf
+}
+
+footer p {
+    font-size: 0.75em
+}

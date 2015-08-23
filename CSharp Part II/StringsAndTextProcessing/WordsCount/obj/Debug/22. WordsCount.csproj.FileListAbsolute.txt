@@ -1,0 +1,1 @@
+C:\Users\Karadaliev\Desktop\Telerik\CSharp Part II\StringsAndTextProcessing\WordsCount\bin\Debug\WordsCount.exe.config

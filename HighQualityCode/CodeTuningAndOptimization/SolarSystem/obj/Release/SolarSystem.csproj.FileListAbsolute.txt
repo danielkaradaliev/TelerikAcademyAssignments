@@ -1,0 +1,12 @@
+C:\Users\Daniel\Desktop\High-Quality-Code-master (1)\High-Quality-Code-master\bin\Release\SolarSystem.exe
+C:\Users\Daniel\Desktop\High-Quality-Code-master (1)\High-Quality-Code-master\bin\Release\SolarSystem.pdb
+C:\Users\Daniel\Desktop\High-Quality-Code-master (1)\High-Quality-Code-master\10. Code Tuning and Optimization\Homework\obj\Release\MainWindow.g.cs
+C:\Users\Daniel\Desktop\High-Quality-Code-master (1)\High-Quality-Code-master\10. Code Tuning and Optimization\Homework\obj\Release\App.g.cs
+C:\Users\Daniel\Desktop\High-Quality-Code-master (1)\High-Quality-Code-master\10. Code Tuning and Optimization\Homework\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\Daniel\Desktop\High-Quality-Code-master (1)\High-Quality-Code-master\10. Code Tuning and Optimization\Homework\obj\Release\SolarSystem_MarkupCompile.cache
+C:\Users\Daniel\Desktop\High-Quality-Code-master (1)\High-Quality-Code-master\10. Code Tuning and Optimization\Homework\obj\Release\SolarSystem_MarkupCompile.lref
+C:\Users\Daniel\Desktop\High-Quality-Code-master (1)\High-Quality-Code-master\10. Code Tuning and Optimization\Homework\obj\Release\MainWindow.baml
+C:\Users\Daniel\Desktop\High-Quality-Code-master (1)\High-Quality-Code-master\10. Code Tuning and Optimization\Homework\obj\Release\SolarSystem.g.resources
+C:\Users\Daniel\Desktop\High-Quality-Code-master (1)\High-Quality-Code-master\10. Code Tuning and Optimization\Homework\obj\Release\SolarSystem.exe
+C:\Users\Daniel\Desktop\High-Quality-Code-master (1)\High-Quality-Code-master\10. Code Tuning and Optimization\Homework\obj\Release\SolarSystem.pdb
+C:\Users\Daniel\Desktop\High-Quality-Code-master (1)\High-Quality-Code-master\10. Code Tuning and Optimization\Homework\obj\Release\SolarSystem.csprojResolveAssemblyReference.cache

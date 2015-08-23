@@ -1,0 +1,14 @@
+2015-08-20 02:25:14,611 [1] INFO  ConsoleApplication1.MainMethod [(null)] - Info
+2015-08-20 02:25:14,704 [1] INFO  ConsoleApplication1.MainMethod [(null)] - Loop Compleated!
+2015-08-20 02:25:14,704 [1] INFO  ConsoleApplication1.MainMethod [(null)] - Operation compleated!
+2015-08-20 02:25:14,704 [1] INFO  ConsoleApplication1.MainMethod [(null)] - Expected result: 5
+2015-08-20 02:25:14,704 [1] INFO  ConsoleApplication1.MainMethod [(null)] - Actual result: 5
+2015-08-20 02:25:14,704 [1] ERROR ConsoleApplication1.MainMethod [(null)] - Error!
+2015-08-20 02:25:14,704 [1] INFO  ConsoleApplication1.MainMethod [(null)] - Error handled!
+2015-08-20 02:27:40,599 [1] INFO  ConsoleApplication1.MainMethod [(null)] - Info
+2015-08-20 02:27:41,041 [1] INFO  ConsoleApplication1.MainMethod [(null)] - Loop Compleated!
+2015-08-20 02:27:41,041 [1] INFO  ConsoleApplication1.MainMethod [(null)] - Operation compleated!
+2015-08-20 02:27:41,041 [1] INFO  ConsoleApplication1.MainMethod [(null)] - Expected result: 5
+2015-08-20 02:27:41,041 [1] INFO  ConsoleApplication1.MainMethod [(null)] - Actual result: 5
+2015-08-20 02:27:41,041 [1] ERROR ConsoleApplication1.MainMethod [(null)] - Error!
+2015-08-20 02:27:41,041 [1] INFO  ConsoleApplication1.MainMethod [(null)] - Error handled!

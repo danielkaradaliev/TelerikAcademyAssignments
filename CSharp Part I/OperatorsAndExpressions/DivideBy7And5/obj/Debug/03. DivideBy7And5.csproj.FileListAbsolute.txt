@@ -1,0 +1,6 @@
+C:\Users\Karadaliev\Desktop\Telerik\CSharp Part I\OperatorsAndExpressions\DivideBy7And5\bin\Debug\DivideBy7And5.exe.config
+C:\Users\Karadaliev\Desktop\Telerik\CSharp Part I\OperatorsAndExpressions\DivideBy7And5\bin\Debug\DivideBy7And5.exe
+C:\Users\Karadaliev\Desktop\Telerik\CSharp Part I\OperatorsAndExpressions\DivideBy7And5\bin\Debug\DivideBy7And5.pdb
+C:\Users\Karadaliev\Desktop\Telerik\CSharp Part I\OperatorsAndExpressions\DivideBy7And5\obj\Debug\03. DivideBy7And5.csprojResolveAssemblyReference.cache
+C:\Users\Karadaliev\Desktop\Telerik\CSharp Part I\OperatorsAndExpressions\DivideBy7And5\obj\Debug\DivideBy7And5.exe
+C:\Users\Karadaliev\Desktop\Telerik\CSharp Part I\OperatorsAndExpressions\DivideBy7And5\obj\Debug\DivideBy7And5.pdb

@@ -1,0 +1,1 @@
+C:\Users\Daniel\Desktop\Telerik\CSharp Part II\StringsAndTextProcessing\UnicodeCharacter\bin\Debug\UnicodeCharacter.exe.config

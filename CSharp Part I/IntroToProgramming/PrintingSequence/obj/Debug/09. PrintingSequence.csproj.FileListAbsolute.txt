@@ -1,0 +1,6 @@
+C:\Users\Karadaliev\Desktop\Telerik\CSharp Part I\IntroToProgramming\PrintingSequence\bin\Debug\PrintingSequence.exe.config
+C:\Users\Karadaliev\Desktop\Telerik\CSharp Part I\IntroToProgramming\PrintingSequence\bin\Debug\PrintingSequence.exe
+C:\Users\Karadaliev\Desktop\Telerik\CSharp Part I\IntroToProgramming\PrintingSequence\bin\Debug\PrintingSequence.pdb
+C:\Users\Karadaliev\Desktop\Telerik\CSharp Part I\IntroToProgramming\PrintingSequence\obj\Debug\09. PrintingSequence.csprojResolveAssemblyReference.cache
+C:\Users\Karadaliev\Desktop\Telerik\CSharp Part I\IntroToProgramming\PrintingSequence\obj\Debug\PrintingSequence.exe
+C:\Users\Karadaliev\Desktop\Telerik\CSharp Part I\IntroToProgramming\PrintingSequence\obj\Debug\PrintingSequence.pdb

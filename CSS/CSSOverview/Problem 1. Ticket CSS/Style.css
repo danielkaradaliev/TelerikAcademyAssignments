@@ -1,0 +1,28 @@
+﻿table {
+    background-color: grey;
+    font-family: 'Arial Rounded MT'
+}
+table th {
+    font-size: 25px;
+    text-align: left
+}
+table td {
+    padding: 10px;
+    color: rgba(92, 76, 76, 0.59)
+}
+table tr td:first-child {
+    color:#ffffff;
+    font-style: italic
+}
+a {
+    color:yellow
+}
+#userStatus {
+    color: #4cff00
+}
+#inactiveSuport {
+    color: #ff0000
+}
+#statusNotAnswered {
+    color: orange
+}

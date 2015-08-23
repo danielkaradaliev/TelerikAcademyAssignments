@@ -1,0 +1,5 @@
+C:\Users\Karadaliev\Desktop\Telerik\CSharp Part I\OperatorsAndExpressions\BitsExchangeAdvanced\bin\Debug\BitsExchangeAdvanced.exe.config
+C:\Users\Karadaliev\Desktop\Telerik\CSharp Part I\OperatorsAndExpressions\BitsExchangeAdvanced\bin\Debug\BitsExchangeAdvanced.exe
+C:\Users\Karadaliev\Desktop\Telerik\CSharp Part I\OperatorsAndExpressions\BitsExchangeAdvanced\bin\Debug\BitsExchangeAdvanced.pdb
+C:\Users\Karadaliev\Desktop\Telerik\CSharp Part I\OperatorsAndExpressions\BitsExchangeAdvanced\obj\Debug\BitsExchangeAdvanced.exe
+C:\Users\Karadaliev\Desktop\Telerik\CSharp Part I\OperatorsAndExpressions\BitsExchangeAdvanced\obj\Debug\BitsExchangeAdvanced.pdb

@@ -1,0 +1,6 @@
+C:\Users\Karadaliev\Desktop\Telerik\CSharp Part I\Primitive Data Types and Variables\PrimitiveDataTypesAndVars\ASCII Table\bin\Debug\ASCII Table.exe.config
+C:\Users\Karadaliev\Desktop\Telerik\CSharp Part I\Primitive Data Types and Variables\PrimitiveDataTypesAndVars\ASCII Table\bin\Debug\ASCII Table.exe
+C:\Users\Karadaliev\Desktop\Telerik\CSharp Part I\Primitive Data Types and Variables\PrimitiveDataTypesAndVars\ASCII Table\bin\Debug\ASCII Table.pdb
+C:\Users\Karadaliev\Desktop\Telerik\CSharp Part I\Primitive Data Types and Variables\PrimitiveDataTypesAndVars\ASCII Table\obj\Debug\14. ASCII Table.csprojResolveAssemblyReference.cache
+C:\Users\Karadaliev\Desktop\Telerik\CSharp Part I\Primitive Data Types and Variables\PrimitiveDataTypesAndVars\ASCII Table\obj\Debug\ASCII Table.exe
+C:\Users\Karadaliev\Desktop\Telerik\CSharp Part I\Primitive Data Types and Variables\PrimitiveDataTypesAndVars\ASCII Table\obj\Debug\ASCII Table.pdb

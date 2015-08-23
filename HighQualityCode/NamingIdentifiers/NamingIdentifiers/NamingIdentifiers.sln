@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. DisplayBooleanToTheConsole", "01. DisplayBooleanToTheConsole\01. DisplayBooleanToTheConsole.csproj", "{91CCAD28-4AAD-4C23-8044-31E2DFA1D1FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. MakePerson", "02. MakePerson\02. MakePerson.csproj", "{7CC49E3C-6494-4E8B-85B5-06A6905D4A43}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03. BrowserChecker", "03. BrowserChecker", "{7D1DA892-78B4-49F7-8334-C367AF4A60A0}"
+	ProjectSection(SolutionItems) = preProject
+		BrowserChecker.js = BrowserChecker.js
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. MineSweeper", "04. MineSweeper\04. MineSweeper.csproj", "{4A9EE766-7A48-4465-8C7C-BA4E74DEC732}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91CCAD28-4AAD-4C23-8044-31E2DFA1D1FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91CCAD28-4AAD-4C23-8044-31E2DFA1D1FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91CCAD28-4AAD-4C23-8044-31E2DFA1D1FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91CCAD28-4AAD-4C23-8044-31E2DFA1D1FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7CC49E3C-6494-4E8B-85B5-06A6905D4A43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CC49E3C-6494-4E8B-85B5-06A6905D4A43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CC49E3C-6494-4E8B-85B5-06A6905D4A43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CC49E3C-6494-4E8B-85B5-06A6905D4A43}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A9EE766-7A48-4465-8C7C-BA4E74DEC732}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A9EE766-7A48-4465-8C7C-BA4E74DEC732}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A9EE766-7A48-4465-8C7C-BA4E74DEC732}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A9EE766-7A48-4465-8C7C-BA4E74DEC732}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,6 @@
+C:\Users\Daniel\Desktop\Telerik\HighQualityCode\NamingIdentifiers\NamingIdentifiers\04. MineSweeper\bin\Debug\_04.MineSweeper.exe.config
+C:\Users\Daniel\Desktop\Telerik\HighQualityCode\NamingIdentifiers\NamingIdentifiers\04. MineSweeper\bin\Debug\_04.MineSweeper.exe
+C:\Users\Daniel\Desktop\Telerik\HighQualityCode\NamingIdentifiers\NamingIdentifiers\04. MineSweeper\bin\Debug\_04.MineSweeper.pdb
+C:\Users\Daniel\Desktop\Telerik\HighQualityCode\NamingIdentifiers\NamingIdentifiers\04. MineSweeper\obj\Debug\04. MineSweeper.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\Telerik\HighQualityCode\NamingIdentifiers\NamingIdentifiers\04. MineSweeper\obj\Debug\_04.MineSweeper.exe
+C:\Users\Daniel\Desktop\Telerik\HighQualityCode\NamingIdentifiers\NamingIdentifiers\04. MineSweeper\obj\Debug\_04.MineSweeper.pdb

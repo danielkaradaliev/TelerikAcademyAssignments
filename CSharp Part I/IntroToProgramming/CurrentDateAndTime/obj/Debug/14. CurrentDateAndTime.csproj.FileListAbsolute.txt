@@ -1,0 +1,5 @@
+C:\Users\Karadaliev\Desktop\Telerik\CSharp Part I\IntroToProgramming\CurrentDateAndTime\bin\Debug\CurrentDateAndTime.exe.config
+C:\Users\Karadaliev\Desktop\Telerik\CSharp Part I\IntroToProgramming\CurrentDateAndTime\bin\Debug\CurrentDateAndTime.exe
+C:\Users\Karadaliev\Desktop\Telerik\CSharp Part I\IntroToProgramming\CurrentDateAndTime\bin\Debug\CurrentDateAndTime.pdb
+C:\Users\Karadaliev\Desktop\Telerik\CSharp Part I\IntroToProgramming\CurrentDateAndTime\obj\Debug\CurrentDateAndTime.exe
+C:\Users\Karadaliev\Desktop\Telerik\CSharp Part I\IntroToProgramming\CurrentDateAndTime\obj\Debug\CurrentDateAndTime.pdb

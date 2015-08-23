@@ -1,0 +1,5 @@
+C:\Users\Karadaliev\Desktop\Telerik\CSharp Part I\IntroToProgramming\PrintLongSequence\bin\Debug\PrintLongSequence.exe
+C:\Users\Karadaliev\Desktop\Telerik\CSharp Part I\IntroToProgramming\PrintLongSequence\bin\Debug\PrintLongSequence.pdb
+C:\Users\Karadaliev\Desktop\Telerik\CSharp Part I\IntroToProgramming\PrintLongSequence\obj\Debug\16. PrintLongSequence.csprojResolveAssemblyReference.cache
+C:\Users\Karadaliev\Desktop\Telerik\CSharp Part I\IntroToProgramming\PrintLongSequence\obj\Debug\PrintLongSequence.exe
+C:\Users\Karadaliev\Desktop\Telerik\CSharp Part I\IntroToProgramming\PrintLongSequence\obj\Debug\PrintLongSequence.pdb

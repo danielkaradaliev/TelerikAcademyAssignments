@@ -1,0 +1,68 @@
+﻿form {
+    color: #ffffff;
+    padding:10px
+}
+img,span, input{
+    margin:3px
+}
+form img{
+    vertical-align:middle
+}
+form span{
+    font-size:x-large
+}
+input[type=submit] {
+    background-image: url('../images/goButton.png');
+    width:50px;
+    height:25px;
+    border:none;
+    border-radius:8px;
+    background-size:100% 100%;
+    color:#ffffff
+}
+input[type=text], input[type=email]{
+    width:130px;
+    height:20px
+}
+header {
+    background-color: #363636;
+    height:auto;
+    width:100%;
+    border-bottom:1px solid #0d0c0c;
+    border-top-left-radius:8px;
+    border-top-right-radius:10px;
+    display:inline-block
+}
+section{
+    background-color:#3B3B3B;
+    margin:0;
+    padding-bottom:5px;
+    width:100%;
+    border-bottom-left-radius:8px;
+    border-bottom-right-radius:8px
+}
+h2{
+    color:#F7D919;
+    margin:0;
+    padding-top:10px;
+    font-size:xx-large;
+    font-weight:500;
+    padding-left:10px;
+    margin-bottom:10px
+}
+section p{
+    color:#9B9B9B;
+    padding:0 10px 10px 10px;
+    font-family:Arial;
+    font-size:14px;
+    margin:0;
+    padding-top:0;
+    padding-bottom:0
+}
+a{
+    text-decoration:none;
+    color:#9B9B9B
+}
+p span{
+    color:#FFFFFF
+}

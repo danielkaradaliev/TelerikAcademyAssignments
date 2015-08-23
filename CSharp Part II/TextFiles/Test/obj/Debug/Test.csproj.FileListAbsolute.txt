@@ -1,0 +1,6 @@
+C:\Users\Karadaliev\Desktop\Telerik\CSharp Part II\TextFiles\Test\bin\Debug\Test.exe.config
+C:\Users\Karadaliev\Desktop\Telerik\CSharp Part II\TextFiles\Test\bin\Debug\Test.exe
+C:\Users\Karadaliev\Desktop\Telerik\CSharp Part II\TextFiles\Test\bin\Debug\Test.pdb
+C:\Users\Karadaliev\Desktop\Telerik\CSharp Part II\TextFiles\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Users\Karadaliev\Desktop\Telerik\CSharp Part II\TextFiles\Test\obj\Debug\Test.exe
+C:\Users\Karadaliev\Desktop\Telerik\CSharp Part II\TextFiles\Test\obj\Debug\Test.pdb

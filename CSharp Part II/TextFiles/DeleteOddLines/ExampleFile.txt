@@ -1,0 +1,15 @@
+1: //Problem 3. Line numbers
+3: //The result should be written to another text file.
+5: using System.IO;
+7:     {
+9:         {
+11: 
+13:             {
+15:                 StreamWriter OutputFile = new StreamWriter("..\\..\\OutputFile.txt");
+17:                 {
+19:                     while (CurrentLine != null)
+21:                         OutputFile.WriteLine("{0}: {1}", CurrentLineNumber, CurrentLine);
+23:                         CurrentLine = InputFile.ReadLine();
+25:                 }
+27:             Console.WriteLine("Done!");
+29:     }

@@ -1,0 +1,12 @@
+C:\Users\Daniel\Desktop\Telerik\HTML\HTMLTables\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\Daniel\Desktop\Telerik\HTML\HTMLTables\WebApplication1\WebApplication1\bin\WebApplication1.dll
+C:\Users\Daniel\Desktop\Telerik\HTML\HTMLTables\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+C:\Users\Daniel\Desktop\Telerik\HTML\HTMLTables\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\Telerik\HTML\HTMLTables\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\Daniel\Desktop\Telerik\HTML\HTMLTables\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\Daniel\Desktop\Telerik\HTML\HTMLTables\Problem1\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\Daniel\Desktop\Telerik\HTML\HTMLTables\Problem1\WebApplication1\bin\WebApplication1.dll
+C:\Users\Daniel\Desktop\Telerik\HTML\HTMLTables\Problem1\WebApplication1\bin\WebApplication1.pdb
+C:\Users\Daniel\Desktop\Telerik\HTML\HTMLTables\Problem1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\Telerik\HTML\HTMLTables\Problem1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\Daniel\Desktop\Telerik\HTML\HTMLTables\Problem1\WebApplication1\obj\Debug\WebApplication1.pdb

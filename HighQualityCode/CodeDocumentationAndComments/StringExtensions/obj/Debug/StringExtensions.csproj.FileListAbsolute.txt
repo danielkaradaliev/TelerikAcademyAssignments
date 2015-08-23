@@ -1,0 +1,3 @@
+C:\Users\Daniel\Desktop\Telerik\HighQualityCode\CodeDocumentationAndComments\StringExtensions\StringExtensions\bin\Debug\StringExtensions.exe.config
+C:\Users\Daniel\Desktop\Telerik\HighQualityCode\CodeDocumentationAndComments\StringExtensions\StringExtensions\obj\Debug\StringExtensions.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\Telerik\HighQualityCode\CodeDocumentationAndComments\StringExtensions\bin\Debug\StringExtensions.exe.config

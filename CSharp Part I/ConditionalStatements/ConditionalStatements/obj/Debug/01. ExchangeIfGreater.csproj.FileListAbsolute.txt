@@ -1,0 +1,1 @@
+C:\Users\Daniel\Desktop\Telerik\CSharp Part I\ConditionalStatements\ConditionalStatements\bin\Debug\ConditionalStatements.exe.config

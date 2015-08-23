@@ -1,0 +1,9 @@
+C:\Users\Karadaliev\Desktop\Telerik\CSharp Part II\StringsAndTextProcessing\ParseTags\bin\Debug\ParseTags.exe.config
+C:\Users\Karadaliev\Desktop\Telerik\CSharp Part II\StringsAndTextProcessing\ParseTags\bin\Debug\ParseTags.exe
+C:\Users\Karadaliev\Desktop\Telerik\CSharp Part II\StringsAndTextProcessing\ParseTags\bin\Debug\ParseTags.pdb
+C:\Users\Karadaliev\Desktop\Telerik\CSharp Part II\StringsAndTextProcessing\ParseTags\obj\Debug\05. ParseTags.csprojResolveAssemblyReference.cache
+C:\Users\Karadaliev\Desktop\Telerik\CSharp Part II\StringsAndTextProcessing\ParseTags\obj\Debug\ParseTags.exe
+C:\Users\Karadaliev\Desktop\Telerik\CSharp Part II\StringsAndTextProcessing\ParseTags\obj\Debug\ParseTags.pdb
+C:\Users\Daniel\Desktop\Telerik\CSharp Part II\StringsAndTextProcessing\ParseTags\bin\Debug\ParseTags.exe.config
+C:\Users\Daniel\Desktop\Telerik\CSharp Part II\StringsAndTextProcessing\ParseTags\obj\Debug\ParseTags.exe
+C:\Users\Daniel\Desktop\Telerik\CSharp Part II\StringsAndTextProcessing\ParseTags\obj\Debug\ParseTags.pdb

@@ -1,0 +1,6 @@
+C:\Users\Daniel\Desktop\Telerik\HighQualityCode\Performance\SimpleMaths\bin\Debug\SimpleMaths.exe.config
+C:\Users\Daniel\Desktop\Telerik\HighQualityCode\Performance\SimpleMaths\bin\Debug\SimpleMaths.exe
+C:\Users\Daniel\Desktop\Telerik\HighQualityCode\Performance\SimpleMaths\bin\Debug\SimpleMaths.pdb
+C:\Users\Daniel\Desktop\Telerik\HighQualityCode\Performance\SimpleMaths\obj\Debug\SimpleMaths.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\Telerik\HighQualityCode\Performance\SimpleMaths\obj\Debug\SimpleMaths.exe
+C:\Users\Daniel\Desktop\Telerik\HighQualityCode\Performance\SimpleMaths\obj\Debug\SimpleMaths.pdb

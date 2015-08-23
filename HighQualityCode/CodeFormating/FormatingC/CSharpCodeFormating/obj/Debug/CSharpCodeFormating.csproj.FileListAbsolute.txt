@@ -1,0 +1,2 @@
+C:\Users\Daniel\Desktop\Telerik\HighQualityCode\CodeFormating\FormatingC\CSharpCodeFormating\CSharpCodeFormating\bin\Debug\CSharpCodeFormating.exe.config
+C:\Users\Daniel\Desktop\Telerik\HighQualityCode\CodeFormating\FormatingC\CSharpCodeFormating\CSharpCodeFormating\obj\Debug\CSharpCodeFormating.csprojResolveAssemblyReference.cache

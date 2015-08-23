@@ -1,0 +1,5 @@
+C:\Users\Daniel\Desktop\High-Quality-Code-master (1)\High-Quality-Code-master\08. High-quality Classes\Homework\Abstraction\bin\Debug\Abstraction.exe
+C:\Users\Daniel\Desktop\High-Quality-Code-master (1)\High-Quality-Code-master\08. High-quality Classes\Homework\Abstraction\bin\Debug\Abstraction.pdb
+C:\Users\Daniel\Desktop\High-Quality-Code-master (1)\High-Quality-Code-master\08. High-quality Classes\Homework\Abstraction\obj\Debug\Abstraction.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\High-Quality-Code-master (1)\High-Quality-Code-master\08. High-quality Classes\Homework\Abstraction\obj\Debug\Abstraction.exe
+C:\Users\Daniel\Desktop\High-Quality-Code-master (1)\High-Quality-Code-master\08. High-quality Classes\Homework\Abstraction\obj\Debug\Abstraction.pdb

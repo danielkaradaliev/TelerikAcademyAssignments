@@ -1,0 +1,22 @@
+﻿table {
+    font-family: 'Arial Rounded MT';
+    border-collapse:collapse;
+    border-bottom: 1px solid #000000
+}
+th, td {
+    padding: 10px;
+    border-left: 1px solid #000000;
+    border-right: 1px solid #000000
+
+}
+td {
+    padding: 10px
+}
+th {
+    background-color : #4cff00
+}
+tr:nth-child(2n+1) {
+    background-color : #aeabab
+}
+/*I could not make it look like the table in the example(without the first left and the las right border) :@
+     I tried to draw the borders with th:not(last-of-type) and td:not(last-child), but it didn't work out */

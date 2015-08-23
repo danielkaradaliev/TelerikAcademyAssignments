@@ -1,0 +1,10 @@
+﻿Bottleneck occures in the EarthRotation method in OrbitsCalculator.cs
+
+field _startDays in the OrbitsCalculator.cs deleted! (never used)
+constant double Step = 360 added!
+the loop in the EarthRotation method deleted! (Causing the bottleneck)
+
+3 Hours untill StyleCop is now happy with the code. Added some properties here and there, there is so much
+more refacturing that can be done...But we should give this task to the guy who wrote the code in the first place,
+right...
+Actually, I am suprised that the program still executes correctly...
